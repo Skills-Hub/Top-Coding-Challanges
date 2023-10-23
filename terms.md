@@ -1,4 +1,7 @@
 ## Terms as coder 
+
+**Test-Driven Development (TDD) in the Context of Building a House**: Imagine you're constructing a house. Before laying a single brick, you first specify the criteria for each room - the sunlight should enter a particular window at a certain time, the kitchen sink should drain at a specific rate, or the front door should withstand a certain amount of force. These criteria are your "tests". In Test-Driven Development, these tests are defined *before* any construction begins. The rationale? By outlining exactly what's expected, builders ensure every part of the house meets the standards from the start. This avoids the hassle of costly renovations later on. Just like in coding, where TDD ensures code functionality right from the beginning, minimizing defects. During the house construction, builders will first see if their work passes the tests (criteria). If not, they adjust their methods and materials until everything fits the bill. This continuous cycle of "test, build, correct" ensures the house is built to spec, is high quality, and will stand the test of time.
+
 1. **Algorithm**: A step-by-step procedure or formula to solve a problem. It's like a recipe for building a house: from laying the foundation to installing the roof.
 
 2. **Variable**: A container to store information. Think of it as a box in a room where you store items.
