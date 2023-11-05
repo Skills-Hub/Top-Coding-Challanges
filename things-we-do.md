@@ -1,4 +1,5 @@
-Certainly, here’s a refined list focusing strictly on coding concepts and actions:
+## Things we do 
+As computer programmer we write code to perform various types of activities and here are my 100 things we do 
 
 1. **Variable Initialization**: Setting up the initial state of a variable.
 2. **Value Assignment**: Defining what data a variable references.
@@ -66,8 +67,6 @@ Certainly, here’s a refined list focusing strictly on coding concepts and acti
 64. **Abstract Class Creation**: Defining classes that can't be instantiated.
 65. **Variable Destructuring**: Extracting multiple properties from objects or arrays.
 66. **Generic Programming**: Creating components that
-
- work with any data type.
 67. **Two-way Data Binding**: Ensuring the UI and model are synchronized.
 68. **Concurrency Handling**: Managing concurrent access to resources.
 69. **Utilizing Dynamic Typing**: Working in languages that determine type at runtime.
@@ -102,5 +101,3 @@ Certainly, here’s a refined list focusing strictly on coding concepts and acti
 98. **Graph Algorithm Implementation**: Solving problems with graph structures.
 99. **Analyzing Code Metrics**: Measuring code characteristics for quality.
 100. **Code Decoupling Practices**: Writing code with minimal dependencies.
-
-Each of these items is a specific coding practice or concept that is part of the day-to-day activities of developers and integral to software development.
