@@ -1,5 +1,5 @@
 ## Things we do 
-As computer programmer we write code to perform various types of activities and here are my 100 things we do 
+As computer programmers we write code to perform various types of activities and here are my 100 things we do 
 
 1. **Variable Initialization**: Setting up the initial state of a variable.
 2. **Value Assignment**: Defining what data a variable references.
